@@ -24,7 +24,8 @@
     </div>
     <h3>Operating System</h3>
       <div>
-        <img title="apple" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
+        <img title="apple" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40">
+        <img title="windows" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40" height="40">
       </div>
 </div>
 

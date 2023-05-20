@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://azadshukor.com/memoji.gif"  alt="Iconodeveloper" width="400" height="200">
+    <img src="./devepoler.png"  alt="Iconodeveloper" width="400" height="200">
     <h1 align="center">Hola amig@s 👋, Soy Frontend Developer</h1>
     <h3 align="center">¡Bienvenido/a! Mi nombre es Hugo y soy originario de Perú. Me apasiona el mundo de la tecnología y el desarrollo web. Soy un desarrollador con experiencia en Front-end utilizando HTML, CSS, JavaScript, React, Tailwind. En el Back-end tengo conocimientos en MongoDB, NodeJS.</h3>
 </div>

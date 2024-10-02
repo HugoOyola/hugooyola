@@ -9,7 +9,7 @@
 👨‍💻 Sobre mi:
 
 - 💬 Preguntame sobre **Tailwind, JavaScript, CSS, React y NextJS**
-- 🌱 Actualmente estoy aprendiendo TypeScritp y Angular
+- 🌱 Actualmente estoy aprendiendo TypeScript y Angular
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
